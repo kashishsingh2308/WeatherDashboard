@@ -1,0 +1,6 @@
+{
+  "name": "Weather Dashboard",
+  "description": "A clean, modern weather dashboard that fetches real-time weather data and 7-day forecasts dynamically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
